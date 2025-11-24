@@ -62,9 +62,10 @@ class CarAdmin(admin.ModelAdmin):
     list_display = ('model_name', 'brand', 'year', 'mileage', 'price')
 
 
-
+```
 ## OUTPUT
-Screenshot (4).png
+<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/01cc0806-a025-4cb2-83db-e3374c799be9" />
+
 
 
 ## RESULT
