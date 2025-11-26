@@ -2,7 +2,6 @@
 ## Date: 23.11.2025
 
 ## AIM
-To develop a Django application to store and retrieve data from Car Inventory Database using Object Relational Mapping(ORM).
 
 
 
